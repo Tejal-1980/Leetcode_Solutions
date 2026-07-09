@@ -7,3 +7,5 @@ var createHelloWorld = function (...args) {
   }
 };
 
+
+//arguments are not discarded—they're stored in args. They're simply never read afterward.//
