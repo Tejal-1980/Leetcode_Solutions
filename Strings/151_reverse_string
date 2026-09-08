@@ -7,3 +7,4 @@ lass Solution(object):
         words=s.split()
         words.reverse()
         return " ".join(words)
+        
