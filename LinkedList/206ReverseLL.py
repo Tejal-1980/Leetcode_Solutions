@@ -10,3 +10,4 @@ class Solution(object):
             curr = next
 
         return prev
+    
