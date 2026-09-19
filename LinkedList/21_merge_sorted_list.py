@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
 
-        temp = ListNode()
+        temp=listnode(0)
         curr = temp
 
         while list1 and list2:
